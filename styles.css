@@ -297,6 +297,88 @@ h3 {
   margin-bottom: 0;
 }
 
+.leadership-section {
+  padding-top: 0;
+}
+
+.leadership-grid {
+  display: grid;
+  grid-template-columns: minmax(210px, 270px) minmax(0, 720px);
+  align-items: center;
+  gap: clamp(2.5rem, 7vw, 6rem);
+  padding-top: clamp(4rem, 7vw, 6rem);
+  border-top: 1px solid var(--line);
+}
+
+.leader-portrait {
+  margin: 0;
+}
+
+.leader-portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 8px solid var(--white);
+  box-shadow: 0 16px 42px rgb(11 43 53 / 16%);
+}
+
+.leader-portrait figcaption {
+  margin-top: 0.65rem;
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+.leader-copy h2 {
+  margin-bottom: 0.4rem;
+}
+
+.leader-role {
+  margin-bottom: 1.25rem;
+  color: var(--teal);
+  font-size: 0.82rem;
+  font-weight: 750;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.leader-copy > p:not(.eyebrow, .leader-role) {
+  color: var(--muted);
+  font-size: 1.03rem;
+}
+
+.profile-link {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.team-section {
+  padding-top: 0;
+}
+
+.team-inner {
+  padding-top: clamp(4rem, 7vw, 6rem);
+  border-top: 1px solid var(--line);
+}
+
+.team-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0 3rem;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--line);
+  list-style: none;
+}
+
+.team-list li {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--line);
+  color: var(--ocean-dark);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.12rem;
+  font-weight: 600;
+}
+
 .section-tinted {
   background: var(--sand);
 }
@@ -397,7 +479,22 @@ h3 {
 }
 
 .publication h3 {
-  font-size: 1.28rem;
+  font-size: 1.18rem;
+}
+
+.publication-featured h3 {
+  font-size: 1.4rem;
+}
+
+.publication h3 a {
+  color: inherit;
+  text-decoration-color: rgb(22 124 128 / 38%);
+  text-decoration-thickness: 1px;
+}
+
+.publication h3 a:hover {
+  color: var(--teal);
+  text-decoration-color: currentColor;
 }
 
 .publication-meta {
@@ -443,11 +540,20 @@ h3 {
   }
 
   .split-layout,
+  .leadership-grid,
   .objectives-panel {
     grid-template-columns: 1fr;
   }
 
+  .leader-portrait {
+    width: min(240px, 75vw);
+  }
+
   .research-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .team-list {
     grid-template-columns: 1fr;
   }
 
