@@ -7,8 +7,9 @@ when developing the public website.
 
 ### Dr. Makoto Jones
 
-**Brief biosketch:** _To be added. Allow approximately two to four sentences describing Dr. Jones's
-role, research expertise, institutional affiliations, and leadership of BRICCS._
+**Brief biosketch:** _To be drafted from the [full biosketch source](makoto-jones-biosketch.md).
+Allow approximately two to four sentences describing Dr. Jones's role, research expertise,
+institutional affiliations, and leadership of BRICCS._
 
 ## Group members
 
@@ -24,4 +25,3 @@ Listed alphabetically by last name:
 - JoAnn Vuong
 - Jordan Welch
 - Wathsala Widanagamaachchi
-
