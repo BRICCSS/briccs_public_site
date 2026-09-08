@@ -23,6 +23,7 @@ Listed alphabetically by last name:
 - Lindsay Carpenter
 - Christian Dalton
 - Senthil Nachimuthu
+- Kelly Peterson
 - Vanessa Stevens
 - JoAnn Vuong
 - Jordan Welch
