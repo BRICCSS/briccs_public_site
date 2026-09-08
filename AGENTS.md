@@ -12,12 +12,11 @@ This repository is a dependency-free static site published with GitHub Pages.
   are not automatically displayed on the site.
 - `.nojekyll` tells GitHub Pages to serve the repository as plain static files.
 
-There is no generated output directory or application framework. Keep the site lightweight unless
-a documented requirement justifies adding tooling.
+There is no generated output or application framework. Add tooling only when required.
 
 ## Build, Test, and Development Commands
 
-No build or dependency installation is required. Preview the site from the repository root:
+No build is required. If Python is installed, preview from the repository root:
 
 ```powershell
 python -m http.server 8000
@@ -36,6 +35,8 @@ GitHub Pages deploys `main` from `/(root)` as described in `README.md`.
 Use two-space indentation in HTML and CSS. Prefer semantic HTML (`main`, `section`, `article`) and
 retain accessible labels, descriptive alt text, visible focus states, and logical heading order.
 Reuse the CSS custom properties defined in `:root` instead of introducing near-duplicate colors.
+Write public copy in plain, natural language. Do not use em dashes. Do not leave square-bracketed
+placeholders or drafting instructions on the public page.
 
 Name files with lowercase, descriptive, hyphen-separated names, such as
 `assets/images/research/epidemic-model.webp`. Avoid spaces. Use SVG for logos and diagrams, WebP or

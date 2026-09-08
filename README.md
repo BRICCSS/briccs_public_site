@@ -26,9 +26,14 @@ The `.nojekyll` file tells GitHub Pages to serve the site as plain static files.
 
 ## Updating content
 
-The page is intentionally built without a framework. Edit the copy in `index.html` and
-the visual styles in `styles.css`. Search for `placeholder` and square-bracketed text to
-find content that still needs final organizational information.
+The page is intentionally built without a framework. Edit public copy and page structure in
+`index.html`, and edit visual styles in `styles.css`. Supporting biographies, organizational details,
+publication research, and source transcriptions are stored in `docs/reference/`. Verify information
+against those sources before moving it onto the public page.
+
+Publication rankings and citation metrics change over time. The retrieval date and ranking method
+are recorded in `docs/reference/makoto-jones-influential-publications.md`; refresh the data before
+making claims based on current influence metrics.
 
 ## Reference material
 
@@ -37,4 +42,5 @@ find content that still needs final organizational information.
 - [Makoto Jones biosketch](docs/reference/makoto-jones-biosketch.md)
 - [Makoto Jones: Contributions to Science](docs/reference/makoto-jones-contributions-to-science.md)
 - [Makoto Jones: Influential Publications](docs/reference/makoto-jones-influential-publications.md)
+- [Portrait of Dr. Makoto Jones](assets/images/photo_makoto_m_jones.jpg)
 - [Source poster photograph](assets/images/briccs_poster.jpg)
