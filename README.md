@@ -33,4 +33,5 @@ find content that still needs final organizational information.
 ## Reference material
 
 - [BRICCSS research poster transcription](docs/reference/briccs-poster-transcription.md)
+- [BRICCS organization structure](docs/reference/organization-structure.md)
 - [Source poster photograph](assets/images/briccs_poster.jpg)
