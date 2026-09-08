@@ -379,13 +379,6 @@ h3 {
   font-weight: 800;
 }
 
-.publications-heading {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  max-width: none;
-  gap: 4rem;
-}
-
 .publication-list {
   border-top: 1px solid var(--line);
 }
@@ -450,8 +443,7 @@ h3 {
   }
 
   .split-layout,
-  .objectives-panel,
-  .publications-heading {
+  .objectives-panel {
     grid-template-columns: 1fr;
   }
 
