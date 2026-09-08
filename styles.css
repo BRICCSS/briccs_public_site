@@ -312,16 +312,7 @@ h3 {
   margin-bottom: 0.4rem;
 }
 
-.leader-role {
-  margin-bottom: 1.25rem;
-  color: var(--teal);
-  font-size: 0.82rem;
-  font-weight: 750;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.leader-copy > p:not(.eyebrow, .leader-role) {
+.leader-copy > p:not(.eyebrow) {
   color: var(--muted);
   font-size: 1.03rem;
 }
