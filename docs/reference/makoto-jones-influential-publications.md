@@ -16,6 +16,17 @@ NIH-funded article in the same field and year. Recent papers and some publicatio
 have an RCR. Citation counts below reflect publications indexed by PubMed, not every citation source.
 See the [NIH iCite field definitions](https://support.icite.nih.gov/hc/en-us/articles/9342283674907-Descriptions-of-Influence-Module-data-fields).
 
+### Public page selection note
+
+The ten-publication list on the public page includes the eight highest-ranked publications below
+plus two required 2026 publications that do not yet have an RCR:
+
+- [Exploring TopicGPT for Identification of Themes of Emerging Pathogens in Biosurveillance Data](https://academic.oup.com/milmed/article/191/Supplement_1/641/8752161)
+- [How Many Veteran COVID-19 Cases Were There during the Pandemic?](https://pubmed.ncbi.nlm.nih.gov/42366842/)
+
+Publications without an RCR follow the scored publications. The complete top 20 by RCR remains
+available below for reference.
+
 ## Top 20 by Relative Citation Ratio
 
 1. **[Vital signs: improving antibiotic use among hospitalized patients](https://pubmed.ncbi.nlm.nih.gov/24598596/)**  
@@ -115,4 +126,3 @@ See the [NIH iCite field definitions](https://support.icite.nih.gov/hc/en-us/art
     Chou AF, Graber CJ, Jones M, et al. *Infect Control Hosp Epidemiol*. 2016.  
     **RCR:** 2.45 · **PubMed-indexed citations:** 51 · **PMID:** 26905338 ·
     **DOI:** [10.1017/ice.2016.26](https://doi.org/10.1017/ice.2016.26)
-

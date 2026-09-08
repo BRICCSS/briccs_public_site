@@ -42,5 +42,6 @@ making claims based on current influence metrics.
 - [Makoto Jones biosketch](docs/reference/makoto-jones-biosketch.md)
 - [Makoto Jones: Contributions to Science](docs/reference/makoto-jones-contributions-to-science.md)
 - [Makoto Jones: Influential Publications](docs/reference/makoto-jones-influential-publications.md)
+- [BRICCSS logo](assets/images/briccs_logo.png)
 - [Portrait of Dr. Makoto Jones](assets/images/photo_makoto_m_jones.jpg)
 - [Source poster photograph](assets/images/briccs_poster.jpg)
