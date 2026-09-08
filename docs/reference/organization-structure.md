@@ -7,6 +7,8 @@ when developing the public website.
 
 ### Dr. Makoto Jones
 
+[University of Utah faculty profile](https://medicine.utah.edu/faculty/makoto-m-jones)
+
 **Brief biosketch:** _To be drafted from the [full biosketch source](makoto-jones-biosketch.md).
 Allow approximately two to four sentences describing Dr. Jones's role, research expertise,
 institutional affiliations, and leadership of BRICCS._

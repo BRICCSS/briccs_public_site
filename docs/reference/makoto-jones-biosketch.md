@@ -5,6 +5,7 @@
 > condensed or independently verified.
 
 See also: [Makoto Jones: Contributions to Science](makoto-jones-contributions-to-science.md).
+See also: [Makoto Jones: Influential Publications](makoto-jones-influential-publications.md).
 
 I am a health services researcher using "big data" to engage in scientific discovery and support
 healthcare quality improvement, bringing perspectives from my other roles as infectious diseases

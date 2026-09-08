@@ -36,4 +36,5 @@ find content that still needs final organizational information.
 - [BRICCS organization structure](docs/reference/organization-structure.md)
 - [Makoto Jones biosketch](docs/reference/makoto-jones-biosketch.md)
 - [Makoto Jones: Contributions to Science](docs/reference/makoto-jones-contributions-to-science.md)
+- [Makoto Jones: Influential Publications](docs/reference/makoto-jones-influential-publications.md)
 - [Source poster photograph](assets/images/briccs_poster.jpg)
