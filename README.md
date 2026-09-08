@@ -29,3 +29,8 @@ The `.nojekyll` file tells GitHub Pages to serve the site as plain static files.
 The page is intentionally built without a framework. Edit the copy in `index.html` and
 the visual styles in `styles.css`. Search for `placeholder` and square-bracketed text to
 find content that still needs final organizational information.
+
+## Reference material
+
+- [BRICCSS research poster transcription](docs/reference/briccs-poster-transcription.md)
+- [Source poster photograph](assets/images/briccs_poster.jpg)
